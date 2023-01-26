@@ -9,4 +9,3 @@ to fulfill those requests and also whether or not it was fulfilled.
 Developed with the help of different features of .NET Core framework and PostgreSQL is used for data
 storage.
 
-Project video has been given in issues.
